@@ -107,17 +107,3 @@ function bak() {
 
 
 }
-form.addEventListener('submit',g =>{
-    g.currentTarget.submit();
-    
-    check();
-})
-function check(){
-  const userv = user.value.trim();
-  const passv = use.value.trim();
-  const pasv = uer.value.trim();
-
-if(userv !== ''){
-  
-}
-}
